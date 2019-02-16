@@ -1,5 +1,5 @@
 PODS:
-  - SPHelper (0.1.0)
+  - SPHelper (1.0.1)
 
 DEPENDENCIES:
   - SPHelper (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SPHelper: b19b9a47664922b4beffffdf455da56954132949
+  SPHelper: 4bd71516591af8080d5d2e05ca5bc1673431477d
 
 PODFILE CHECKSUM: a8b87b18b97850889cd0a4b0e478d9025b33ae94
 

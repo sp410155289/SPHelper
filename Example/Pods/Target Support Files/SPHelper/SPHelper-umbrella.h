@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "helper.h"
 
 FOUNDATION_EXPORT double SPHelperVersionNumber;
 FOUNDATION_EXPORT const unsigned char SPHelperVersionString[];

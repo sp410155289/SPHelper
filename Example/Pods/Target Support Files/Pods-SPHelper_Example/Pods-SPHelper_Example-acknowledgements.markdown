@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## SPHelper
 
-Copyright (c) 2019 sp410155289 <git@183.3.223.253:/git/mooc.git>
+Copyright (c) 2019 sp410155289 <sp410155289@163.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

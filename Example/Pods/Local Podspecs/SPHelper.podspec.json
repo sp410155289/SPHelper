@@ -1,22 +1,23 @@
 {
   "name": "SPHelper",
-  "version": "0.1.0",
-  "summary": "A short description of SPHelper.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "1.0.1",
+  "summary": "SPHelper.",
+  "description": "my SPHelper",
   "homepage": "https://github.com/sp410155289/SPHelper",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "sp410155289": "git@183.3.223.253:/git/mooc.git"
+    "sp410155289": "sp410155289@163.com"
   },
   "source": {
     "git": "https://github.com/sp410155289/SPHelper.git",
-    "tag": "0.1.0"
+    "tag": "1.0.1"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "SPHelper/Classes/**/*"
+  "source_files": "SPHelper/Classes/*",
+  "public_header_files": "SPHelper/Classes/*.h"
 }
