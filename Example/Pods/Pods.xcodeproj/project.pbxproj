@@ -13,7 +13,6 @@
 		7B6A0B518B0B6F31DAF021C9EB72C975 /* Pods-SPHelper_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7ABF5C6D5D358868046217EDE7C6666F /* Pods-SPHelper_Example-dummy.m */; };
 		89C152A758882BA6401FFDF4560DFA7C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
 		A343BA4881283DCDBE88E4C272828B5D /* Pods-SPHelper_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 515D3564EFECE999F70EDADD38A89F25 /* Pods-SPHelper_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		AC3D743A19661D8C7383FB57FFD3FE5A /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 25C81F0F8B60065326E554C122A797D6 /* ReplaceMe.m */; };
 		B2A1C9913CDD064CF92EBA5372489FDE /* Pods-SPHelper_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CFB3E98D6251FEDB7BAC918826029D4D /* Pods-SPHelper_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E369E29BA4D47440A4118947C3E2E6B0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
 		F41D460B4F4D50DF7CDAB43EFD35241B /* Pods-SPHelper_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 01723F95EAF409355DBFF7562BC22E4B /* Pods-SPHelper_Tests-dummy.m */; };
@@ -41,28 +40,27 @@
 		1CDF40F748FE2C9F0F0EE5FB5787E5ED /* Pods-SPHelper_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SPHelper_Tests-Info.plist"; sourceTree = "<group>"; };
 		1E42F28FD63E5F4D7EEF3E6AA63636F1 /* Pods-SPHelper_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SPHelper_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		254CFF76B62635D11757188F1BF516B3 /* Pods-SPHelper_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SPHelper_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		25C81F0F8B60065326E554C122A797D6 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = SPHelper/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		33A8BE43F065810A4469B75E67040F5C /* Pods-SPHelper_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SPHelper_Example-Info.plist"; sourceTree = "<group>"; };
 		48A6D00AA50EBC8FDFDFE7B265C74306 /* SPHelper-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SPHelper-dummy.m"; sourceTree = "<group>"; };
 		4ADB17052643773884A33026357D9B6F /* Pods-SPHelper_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SPHelper_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		515D3564EFECE999F70EDADD38A89F25 /* Pods-SPHelper_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SPHelper_Tests-umbrella.h"; sourceTree = "<group>"; };
 		5BD127454F2EF860641542EE5EC829C3 /* Pods-SPHelper_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SPHelper_Tests.modulemap"; sourceTree = "<group>"; };
-		61AFD2B0932773FC7425A60059113F56 /* SPHelper.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SPHelper.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		653F0B4436D47D410CD75B626F48DD03 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		61AFD2B0932773FC7425A60059113F56 /* SPHelper.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = SPHelper.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		653F0B4436D47D410CD75B626F48DD03 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6D220179564E2163C93E9BBA6933D41D /* Pods-SPHelper_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SPHelper_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		7ABF5C6D5D358868046217EDE7C6666F /* Pods-SPHelper_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SPHelper_Example-dummy.m"; sourceTree = "<group>"; };
-		7FAEC486959CB1AB3A1F92F5A9A6786A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		7FAEC486959CB1AB3A1F92F5A9A6786A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		93BA5C8527FF47A6CAE8EE7C0FB1B261 /* Pods-SPHelper_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SPHelper_Example-frameworks.sh"; sourceTree = "<group>"; };
 		963DE715E2EE58269A10075DCFE7923D /* SPHelper-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SPHelper-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B0CB4AA571F476825D2FDC440C434819 /* Pods-SPHelper_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SPHelper_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		B462C1A0B8DF531640A77030DD8517D5 /* SPHelper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SPHelper.framework; path = SPHelper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BC22F2DFDAE6992AF5BDE5256BD855D7 /* Pods_SPHelper_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SPHelper_Example.framework; path = "Pods-SPHelper_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B462C1A0B8DF531640A77030DD8517D5 /* SPHelper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SPHelper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC22F2DFDAE6992AF5BDE5256BD855D7 /* Pods_SPHelper_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SPHelper_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA0BB96C1F125F0CF769CD36AC0997D0 /* SPHelper-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SPHelper-prefix.pch"; sourceTree = "<group>"; };
 		CABA159B66A2A12977A400FBC4C218B4 /* Pods-SPHelper_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SPHelper_Example.release.xcconfig"; sourceTree = "<group>"; };
 		CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		CFB3E98D6251FEDB7BAC918826029D4D /* Pods-SPHelper_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SPHelper_Example-umbrella.h"; sourceTree = "<group>"; };
-		D773EAED64D84ED5CC68C31BD20F6CA3 /* Pods_SPHelper_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SPHelper_Tests.framework; path = "Pods-SPHelper_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D773EAED64D84ED5CC68C31BD20F6CA3 /* Pods_SPHelper_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SPHelper_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5FEBEFB93BB2DB7DB7D58F181493794 /* SPHelper.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SPHelper.modulemap; sourceTree = "<group>"; };
 		EC80B59546EDD489F8EFD0FE5B50E9B9 /* Pods-SPHelper_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SPHelper_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		EED895882490D1B97F169674D7A740F4 /* Pods-SPHelper_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SPHelper_Example.modulemap"; sourceTree = "<group>"; };
@@ -111,7 +109,6 @@
 		104B15F154AF7748471D4FEB17DEBA7F /* SPHelper */ = {
 			isa = PBXGroup;
 			children = (
-				25C81F0F8B60065326E554C122A797D6 /* ReplaceMe.m */,
 				D65EE0711F96275628F150A052E66B6A /* Pod */,
 				B952974215D84A020DC937731D8CD0A5 /* Support Files */,
 			);
@@ -364,7 +361,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AC3D743A19661D8C7383FB57FFD3FE5A /* ReplaceMe.m in Sources */,
 				0F24146B8E2F0C19AE98B1F6189DE704 /* SPHelper-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -456,8 +452,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};

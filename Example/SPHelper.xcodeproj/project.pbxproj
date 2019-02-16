@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		2FAC356290910F1A0F2CF972 /* Pods-SPHelper_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SPHelper_Tests.release.xcconfig"; path = "Target Support Files/Pods-SPHelper_Tests/Pods-SPHelper_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		42F642184305A485111F8E8B /* Pods_SPHelper_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SPHelper_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		49E25E605432DC95C70D6A41 /* SPHelper.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SPHelper.podspec; path = ../SPHelper.podspec; sourceTree = "<group>"; };
+		49E25E605432DC95C70D6A41 /* SPHelper.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SPHelper.podspec; path = ../SPHelper.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6003F58A195388D20070C39A /* SPHelper_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SPHelper_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -62,10 +62,10 @@
 		66D554E2E95CF519AB31BC0E /* Pods_SPHelper_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SPHelper_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6ACD922AD9E2F834D2A329BE /* Pods-SPHelper_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SPHelper_Example.release.xcconfig"; path = "Target Support Files/Pods-SPHelper_Example/Pods-SPHelper_Example.release.xcconfig"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		872FB6DADC25C283DAECD971 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		872FB6DADC25C283DAECD971 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AE9760D594CC2D23C5481AA4 /* Pods-SPHelper_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SPHelper_Tests.debug.xcconfig"; path = "Target Support Files/Pods-SPHelper_Tests/Pods-SPHelper_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		B5020FF7C337A7D9E2BCE437 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		B5020FF7C337A7D9E2BCE437 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		E408B2D78F91607F4733D4FF /* Pods-SPHelper_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SPHelper_Example.debug.xcconfig"; path = "Target Support Files/Pods-SPHelper_Example/Pods-SPHelper_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -103,7 +103,6 @@
 				AE9760D594CC2D23C5481AA4 /* Pods-SPHelper_Tests.debug.xcconfig */,
 				2FAC356290910F1A0F2CF972 /* Pods-SPHelper_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
