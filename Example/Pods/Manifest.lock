@@ -1,0 +1,16 @@
+PODS:
+  - SPHelper (0.1.0)
+
+DEPENDENCIES:
+  - SPHelper (from `../`)
+
+EXTERNAL SOURCES:
+  SPHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SPHelper: b19b9a47664922b4beffffdf455da56954132949
+
+PODFILE CHECKSUM: a8b87b18b97850889cd0a4b0e478d9025b33ae94
+
+COCOAPODS: 1.6.0

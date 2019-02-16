@@ -1,0 +1,6 @@
+framework module SPHelper {
+  umbrella header "SPHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
